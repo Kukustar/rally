@@ -10,6 +10,7 @@
       android:id="@+id/tv_alert_title"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
+      android:textColor="@color/color_primary"
       tools:text = "alert title here"
       style="?attr/textAppearanceHeadline6"
       android:layout_margin="@dimen/spacing_large"/>

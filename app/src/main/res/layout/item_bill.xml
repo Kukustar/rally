@@ -35,6 +35,7 @@
       android:layout_width="0dp"
       android:layout_height="wrap_content"
       tools:text="RedPay Credit"
+      android:textColor="@color/color_primary"
       android:layout_marginTop="@dimen/spacing_medium"
       app:layout_constraintTop_toTopOf="parent"
       app:layout_constraintStart_toEndOf="@id/bar"

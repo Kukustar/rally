@@ -83,6 +83,7 @@
 
   <TextView
       android:text="Overview"
+      android:textColor="@color/color_primary"
       style="?attr/textAppearanceButton"
       android:id="@+id/textView"
       tools:ignore="MissingConstraints"
